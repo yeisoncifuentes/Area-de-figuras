@@ -21,6 +21,11 @@ public class Main{
 		System.out.println("El area del cuadrado es: "+(lado*lado)+" cm^2");
 		System.out.println("");		
 		
-		
+		System.out.println("AREA TRIANGULO");
+		double base = 4;
+		double altura = 10;
+                System.out.println("Con base = " + base + " y altura = " + altura);
+		System.out.println("El area del triangulo es: "+((base*altura)/2)+" cm^2");
+		System.out.println("");		
 	}
 }
