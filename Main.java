@@ -15,7 +15,11 @@ public class Main{
 		System.out.println("El area del circulo es:"+(pi*(Math.pow(radio,2)))+" cm^2");
 		System.out.println("");
 		
-               
+                System.out.println("AREA CUADRADO");
+		double lado = 4;
+		System.out.println("Con lado = "+lado);
+		System.out.println("El area del cuadrado es: "+(lado*lado)+" cm^2");
+		System.out.println("");		
 		
 		
 	}
